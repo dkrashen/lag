@@ -1,0 +1,22 @@
+testing: false
+
+# Site settings
+title: "Linear Algebraic Groups over Fields (Topics in Algebraic Geometry)"
+page_title: "Linear Algebraic Groups over Fields"
+course_title: "UPenn MATH 7240, Fall 2025."
+description: ""
+instructor: "Danny Krashen"
+email: "daniel.krashen+lag@gmail.com"
+office: "DRL 3E1A"
+office_hours: "TBA"
+lecture_schedule: "Mon/Wed 8:30-10am, DRL 4N30"
+
+baseurl: "/lag"
+url: "http://dkrashen.github.io"
+
+url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
