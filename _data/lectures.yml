@@ -1,3 +1,6 @@
 - title: "Lecture 1 (8/27/2025)"
   description: "Introduction to algebraic geometry: affine schemes and their coordinate rings"
   filename: "lecture1.pdf"
+- title: "Lecture 2 (9/3/2025)"
+  description: "Open and closed subschemes, Zariski topology; Introduction to group spaces"
+  filename: "lecture2.pdf"
