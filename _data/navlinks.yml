@@ -9,7 +9,7 @@
     url: "/syllabus/"
 -   id: "homework"
     title: "Homework"
-    url: "/homework/"
+    url: "/homework.pdf"
 -   id: "instructor"
     title: "Danny's home page"
     url: "http://dkrashen.github.io"
