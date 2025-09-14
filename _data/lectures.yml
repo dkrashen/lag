@@ -7,3 +7,6 @@
 - title: "Lecture 3 (9/8/2025)"
   description: "Some examples of group spaces, fiber products"
   filename: "lecture3.pdf"
+- title: "Lecture 4 (9/10/2025)"
+  description: "Pushouts and gluing for k-spaces and k-sheaves; Definition of schemes"
+  filename: "lecture4.pdf"
